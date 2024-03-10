@@ -1,7 +1,7 @@
 import anthropic
 
 client = anthropic.Anthropic(
-    api_key="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"  # Replace with your actual API key
+    api_key="........"  # Replace with your actual API key
 )
 
 user_input = input("Enter your message: ")
